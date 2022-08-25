@@ -13,12 +13,13 @@ import sub2.Car;
  * - 클래스는 객체를 생성하는 구조체이고 속성(필드)과 기능(메서드)으로 구성
  * -  클래스의 실제 인스턴스이며 new 연산으로 생성
  */
+
 public class ClassTest {
 	
       public static void main(String[] args) {
 	
     	  //객체 생성
-    	  Car sonata = new Car();
+    	  Car sonata =new Car();
     	 
     	 //객체 속성 초기화
     	  sonata.name = "소나타";
