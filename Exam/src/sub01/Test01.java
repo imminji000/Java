@@ -15,8 +15,8 @@ public class Test01 {
     	double var5 = 3.14159;
     	boolean var6 = true;
     	boolean var7 = false;
-    	string var8 = "hello";
-    	string var9 = null;
+    	String var8 = "hello";
+    	String var9 = null;
     	
     	System.out.println("var1 : "+var1);
     	System.out.println("var2 : "+var2);
