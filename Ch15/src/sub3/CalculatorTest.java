@@ -1,5 +1,4 @@
 package sub3;
-
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
@@ -120,5 +119,3 @@ public class CalculatorTest extends JFrame {
 	}
 
 }
-Footer
-© 2022 GitHub, Inc.
