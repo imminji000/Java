@@ -6,5 +6,6 @@ public class p46 {
 		
 		System.out.println("콘솔 화면에 출력");
 		System.out.println("Hello World");
+		
 	}
 }
